@@ -13,7 +13,7 @@ char input[100];
 
 //execvp("./ex2");
 cout <<"****************************************** \n";
-cout <<"Welcome to Cody and Talbert's Command Line \n";
+cout <<"Welcome to Chris and Talbert's Command Line \n";
 cout <<"****************************************** \n";
 
 cout << "Please Enter Command: \n";
