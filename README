@@ -1,0 +1,22 @@
+WELCOME TO TALBERT AND CODY CLI 
+
+HOW TO USE:
+
+RUN ./cli.cpp
+
+YOU SHOULD BE PROMPTED WITH " PLEASE ENTER COMMAND"
+
+
+HERE ARE THE LSIT OF COMMANDS YOU CAN ENTER:
+
+1. ls
+2. cd
+3. mkdir
+4. mv (filename) (newfilename)
+5. date
+6. echo (User Input)
+7. pwd (filename)
+
+
+
+

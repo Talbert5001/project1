@@ -12,8 +12,11 @@ char input[100];
 //char *argv[] = {"hello","citro","class",NULL};
 
 //execvp("./ex2");
-fork();
-cout << "Enter Command";
+cout <<"****************************************** \n";
+cout <<"Welcome to Cody and Talbert's Command Line \n";
+cout <<"****************************************** \n";
+
+cout << "Please Enter Command: \n";
 cin.getline(input,100);
 system(input);
 
