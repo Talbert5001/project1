@@ -7,4 +7,5 @@ cd
 add
 subtract
 exit
-
+help
+bot
