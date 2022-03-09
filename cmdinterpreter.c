@@ -1,13 +1,4 @@
-/*
-Kasey Cocking
-CST-315-99
-Project 1: Unix/Linux Improved Command Line Interpreter
-Project 2: Pager - A Virtual Memory Manager
-This project is aimed at becoming more familiar with the Linux OS and
-understanding the inner-workings of the powershell. This project has 
-been improved upon with additonal commands and an implemented virtual
-memory manager.
-*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>

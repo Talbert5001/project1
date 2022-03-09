@@ -9,3 +9,7 @@ subtract
 exit
 help
 bot
+
+page (filename.txt)
+#the filename is page.txt so type this: page page.txt
+#This will start the paging process
